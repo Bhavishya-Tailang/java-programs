@@ -22,11 +22,12 @@ public class SwitchLoop {
     }
 }
 
-
 /**
  * example:
  * Enter the day: 4
  *  Weekday
  * Enter the day: 7
  *  Weekend
+ * Enter the day: 10
+ *  Different planet
  */
