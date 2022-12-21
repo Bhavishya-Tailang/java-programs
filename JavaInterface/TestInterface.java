@@ -16,9 +16,11 @@ class Circle implements Drawable {
     }
 }
 
-class TestInterface1 {
+class TestInterface {
     public static void main(String args[]) {
         Drawable d = new Circle();
         d.draw();
+        Drawable db = new Rectangle();
+        db.draw();
     }
 }
